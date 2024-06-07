@@ -1,1 +1,3 @@
 Hi, I am Jiachen. I graduated with a Master of Science in Computational Neuroscience graduate from the University of Maryland, College Park, with a strong foundation in machine learning, reinforcement learning, data structures and computer algorithms. My academic journey also includes a Bachelor of Arts in Computational Neuroscience from Oberlin College, where I minored in Computer Science, Statistics, and Cognitive Sciences.
+
+I am interested in the theory of Machine Learning and Neural Networks. My background in neuroscience has particularly helped me to look at neural networks from a different perspective. With full stack project experience with cloud ML and LLMs, I am am excited to keep exploring on this path of innovative ML.
