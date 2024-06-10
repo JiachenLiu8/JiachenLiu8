@@ -4,17 +4,6 @@ I am interested in the theory of Machine Learning and Neural Networks. My backgr
 
 # Skills Overview
 
-## General Skills
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira-software&logoColor=white)
-
 ## Frontend Skills
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
